@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bradleygamboa/Week-12-Homework.git"
+    "url": "git+https://github.com/bradleygamboa/Week-12-MYSQL.git"
   },
   "author": "Bradley Gamboa",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bradleygamboa/Week-12-Homework/issues"
+    "url": "https://github.com/bradleygamboa/Week-12-MYSQL/issues"
   },
-  "homepage": "https://github.com/bradleygamboa/Week-12-Homework#readme",
+  "homepage": "https://github.com/bradleygamboa/Week-12-MYSQL#readme",
   "dependencies": {
     "mysql": "^2.11.1",
     "prompt": "^1.0.0"
