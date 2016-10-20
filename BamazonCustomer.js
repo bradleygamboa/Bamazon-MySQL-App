@@ -48,7 +48,6 @@ conn.query('SELECT * FROM products', function(err, rows) {
             var department = rows[result.itemid - 1].DepartmentName;
             console.log("Your total is: $" + orderPrice);
             console.log("Thanks you, come again!");
-            conn.end();
 
             // Update the stock for the item.
             var newQuantity = ( rows[result.itemid - 1].StockQuantity - result.quantity);
